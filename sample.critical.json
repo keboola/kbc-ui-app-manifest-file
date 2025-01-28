@@ -1,0 +1,8 @@
+{
+  "name": "Sample critical KBC Application",
+  "version": "1",
+  "basePath": "https://keboola.github.io/kbc-ui-app-manifest-file/",
+  "scripts": [],
+  "styles": [],
+  "isCritical": true
+}
