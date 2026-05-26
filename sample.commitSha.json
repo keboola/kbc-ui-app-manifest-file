@@ -1,0 +1,8 @@
+{
+  "name": "Sample commit SHA KBC Application",
+  "version": "1",
+  "basePath": "https://keboola.github.io/kbc-ui-app-manifest-file/",
+  "scripts": [],
+  "styles": [],
+  "commitSha": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+}
